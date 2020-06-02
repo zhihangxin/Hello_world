@@ -1,3 +1,3 @@
 # Hello_world
 This is my first repository.
-I am in japan.
+I came from China, but I am in japan now.
